@@ -19,3 +19,4 @@ stop() {
 	#service_stop /usr/bin/ssr-redir
 	#service_stop /usr/bin/ssr-tunnel
 }
+test
