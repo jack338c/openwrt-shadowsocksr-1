@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=shadowsocksR-libev
 PKG_VERSION:=2.5.6
-#PKG_VERSION:=20170520-test
+#PKG_VERSION:=20170520
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_RELEASE).tar.gz
